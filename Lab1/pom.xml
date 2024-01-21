@@ -35,7 +35,7 @@
                 <configuration>
                     <includes>
                         <include>
-                            edu.iu.msronan.ProblemsTest
+                            org.example.MainTest
                         </include>
                     </includes>
                     <excludes>
